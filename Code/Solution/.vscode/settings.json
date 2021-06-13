@@ -1,0 +1,8 @@
+{
+    "project.name": "RqLogger.Demo",
+    "project.path": "API/RqLogger.Demo/Code",
+    "files.associations": {
+        "*.env": "shellscript",
+        "*.ruleset": "xml"
+    }
+}

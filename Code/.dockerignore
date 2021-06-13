@@ -1,0 +1,19 @@
+# Ignore everything
+**
+
+# Allow Base Solution tree
+!Solution
+
+# Code Analyzer Rules
+!.rules
+
+# Global Cross-projects Build configurations
+# Including required packages and code inspections
+!Directory.Build.props
+
+# Explicitly exclude build outputs 
+# even inside the included directories
+**/bin/
+**/obj/
+**/out/
+**/TestResults/
